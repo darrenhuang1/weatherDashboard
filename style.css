@@ -1,0 +1,36 @@
+.sizing{
+    width: 160px;
+    background-color: #337DFF;
+    color: white;
+}
+
+.green {
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+.red {
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.list-group-item button {
+    text-transform: capitalize;
+}
+
+.spacing {
+    margin-right: 20px;
+}
+
+#currentWeather {
+    margin-bottom: 25px;
+}
